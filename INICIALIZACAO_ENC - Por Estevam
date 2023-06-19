@@ -2,7 +2,7 @@
 
 void INICIALIZACAO_ENC() {
 
-config_spi();           // CONFIGURANDO A COMUNICAÃ‡ÃƒO SPI
+config_spi();               // CONFIGURANDO A COMUNICAÃ‡ÃƒO SPI
 RESET_ENC();                // RESETANDO O ENC28J60
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
